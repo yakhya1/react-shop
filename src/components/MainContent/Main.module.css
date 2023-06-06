@@ -1,0 +1,45 @@
+.ul {
+    list-style: none;
+    width: 400px;
+    padding-inline-start: 90px;
+    margin-top: 50PX;
+}
+.ul li {
+    font-size: 20px;
+    margin: 10px;
+    color: rgb(75, 62, 62);
+}
+.mainCard {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}
+.card img {
+    height: 160px;
+    width: 150px;   
+}
+.button{
+    margin-top: 5px;
+
+    color: white;
+    background-color: rgb(76, 112, 243);
+    
+    border: solid 0;
+ width: 150px;
+    height: 30px;
+}
+.card {
+    width: 370px;
+    margin-top: 40px;
+}
+.price{
+    font-size: 25px;
+    margin-top: 5px;
+}
+.name{
+    font-size: 20px;
+    margin-top: 5px;
+
+    color: rgb(123, 120, 120);
+}
